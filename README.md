@@ -49,7 +49,7 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 ## 📫 You can find me @
 <!-- YOU-CAN-FIND-ME:START -->
-- [LinkedIn]([www.linkedin.com/in/mahmud-hasan-030904312](https://www.linkedin.com/in/mahmud-hasan-030904312/)) 💼
+- [LinkedIn](www.linkedin.com/in/mahmud-hasan-030904312) 💼
 - [Facebook](https://www.facebook.com/mahdi.job.3) 😏
 <!-- YOU-CAN-FIND-ME:END -->
 
