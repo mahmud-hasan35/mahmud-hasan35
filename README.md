@@ -29,7 +29,10 @@ I’m a Front End Web developer passionate about making error-free websites with
 ✅ Tailwindcss <br> 
 ✅ DaisyUI <br> 
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-✅ Photoshop / Illustrator/ Figma /Pixso <br>
+✅ Firebase <br>
+✅ MongoDB 
+
+
 
 ## 📈 My GitHub Stats
 ### GitHub Stars
