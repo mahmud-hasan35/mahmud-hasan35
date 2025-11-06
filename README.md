@@ -2,11 +2,10 @@
  <img align="" alt="coding" width="full" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 
 # Hi, I'm Mahmud Hasan 👋 
-
 <h3 align="">Professional Frontent Web Developer(MERN) From Bangladesh</h3>
-<br>
 
--👑 I am Web Developer <br> 
+
+ -👑 I am Web Developer <br> 
 - 👀 I’m interested in learning coding, especially in web development. <br> 
 - 🌱 I’m currently learning web development.  <br> 
 - 💞️ I’m looking to collaborate on open-source projects, <br> 
