@@ -3,14 +3,9 @@
 
 # Hi, I'm Mahmud Hasan 👋 
 
-<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
+<h3 align="">Professional Frontent Web Developer(MERN) From Bangladesh</h3>
 <br>
 
-
- <br>
-
-
-<br> 
 -👑 I am Web Developer <br> 
 - 👀 I’m interested in learning coding, especially in web development. <br> 
 - 🌱 I’m currently learning web development.  <br> 
