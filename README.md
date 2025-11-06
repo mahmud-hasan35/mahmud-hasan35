@@ -5,7 +5,7 @@
 <h3>Professional Frontent Web Developer(MERN) From Bangladesh</h3>
 
 
- -👑 I am Web Developer. <br>
+        -👑 I am Web Developer. <br>
 - 👀 I’m interested in learning coding, especially in web development. <br> 
 - 🌱 I’m currently learning web development.  <br> 
 - 💞️ I’m looking to collaborate on open-source projects, <br> 
@@ -13,8 +13,6 @@
 <br>
 <br>
 <br>
-<br>
-<!-- <p align="left"> <a href="https://x.com/AhamdMaimun" target="blank"><img src="https://img.shields.io/twitter/follow/AhmadMaimun?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p> -->
 
 ## 🚀 About Me
 I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. I created a lots of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. I enjoy working with Tailwindcss, daisyUI, ReactJS, JavaScript as well as Next.js. 
