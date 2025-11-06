@@ -1,5 +1,5 @@
 
- <img align="" alt="coding" width="full" src="[[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif]](https://github.com/mehedi-imun/mehedi-imun/blob/main/images/cover.png?raw=true)"> 
+ <img align="" alt="coding" width="full" src="https://github.com/mehedi-imun/mehedi-imun/blob/main/images/cover.png?raw=true"> 
 
 # Hi, I'm Mahmud Hasan 👋 
 <h3>Professional Frontent Web Developer(MERN) From Bangladesh</h3>
