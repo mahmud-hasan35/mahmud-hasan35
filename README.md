@@ -1,8 +1,8 @@
 
- <img align="" alt="coding" width="full" src="https://github.com/mehedi-imun/mehedi-imun/blob/main/images/cover.png?raw=true"> 
+ <img align="center" alt="coding" width="100%" src="https://github.com/mehedi-imun/mehedi-imun/blob/main/images/cover.png?raw=true"> 
 
-# Hi, I'm Mahmud Hasan 👋 
-<h3>Professional Frontent Web Developer(MERN) From Bangladesh</h3>
+# Hi, I'm Mahmud Hasan 👋  
+### 💻 Professional Frontend Web Developer (MERN) from Bangladesh
 
 
    -👑 I am Web Developer. <br>
@@ -15,7 +15,7 @@
 <br>
 
 ## 🚀 About Me
-I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. I created a lots of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. I enjoy working with Tailwindcss, daisyUI, ReactJS, JavaScript as well as Next.js. 
+I’m a Frontend Web Developer passionate about creating error-free, high-performing websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. I’ve built multiple websites for clients across different industries. I pride myself on doing quality work and maintaining excellent communication. I enjoy working with Tailwindcss, daisyUI, ReactJS, JavaScript as well as Next.js. 
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ JavaScript <br>
@@ -53,7 +53,7 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
