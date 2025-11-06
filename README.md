@@ -5,7 +5,7 @@
 <h3>Professional Frontent Web Developer(MERN) From Bangladesh</h3>
 
 
-        -👑 I am Web Developer. <br>
+   -👑 I am Web Developer. <br>
 - 👀 I’m interested in learning coding, especially in web development. <br> 
 - 🌱 I’m currently learning web development.  <br> 
 - 💞️ I’m looking to collaborate on open-source projects, <br> 
