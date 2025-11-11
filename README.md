@@ -1,5 +1,5 @@
 
- <img align="center" alt="coding" width="100%" src="[https://github.com/mehedi-imun/mehedi-imun/blob/main/images/cover.png?raw=true](https://www.canva.com/design/DAG4Zw0COk0/2jWqD-VorY5ip7gPD8Fv2Q/view)"> 
+ <img align="center" alt="coding" width="100%" src="[https://github.com/mehedi-imun/mehedi-imun/blob/main/images/cover.png?raw=true]"> 
  
 
 # Hi, I'm Mahmud Hasan 👋  
